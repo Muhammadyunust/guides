@@ -228,5 +228,6 @@ const favicons = [
       name='msapplication-TileImage'
     />
   ];
+//It is great
 
 export default favicons;
